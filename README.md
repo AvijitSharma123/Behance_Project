@@ -47,7 +47,7 @@ Behance is the world's largest creative network for showcasing and discovering c
 # <span style="color:red"> Welcome Here!</span>
 
 Hello Readers,<br>
-It was during the final week which is depicted as the construct week. We have done this project with group of 5 members and build the website of TaxTim is an online platform that offers tax-related services and assistance to individuals and businesses in South Africa.<br> This Project is our construct week project in Unit-6 an we give a name to our project moaning-distribution-2092.
+It was during the final week which is depicted as the construct week. We have done this project with group of 4 members and build the website of TaxTim which is an online platform that offers tax-related services and assistance to individuals and businesses in South Africa.<br> This Project is our construct week project in Unit-6 an we give a name to our project knowing-ladybug-5395.
 <br> I hope you will enjoy the reading….
 
 # <span style="color:red"> About Website: </span>
@@ -57,7 +57,7 @@ It was during the final week which is depicted as the construct week. We have do
 
 # <span style="color:red"> Tech Stack Used: </span>
 
-We have used React,ChakraUi, CSS, Firebase ,Razorpay  and more librabries of react to building this Project. We also used tools like GitHub for collaboration of our project, Slack & Zoom as means of a communication channel and use netlify for deployment.
+We have used React,ChakraUi, CSS, Firebase ,Razorpay  and more librabries of react to building this Project. We also used tools like GitHub for collaboration of our project, Slack & Zoom as means of a communication channel and use netlify and Vercel for deployment.
 
 
 # <span style="color:red"> Details of Tech stack used: </span>
@@ -191,7 +191,7 @@ on the seventh day again we merge all our code and finally, we did it, There wer
 
 
 # <span style="color:rgb(255, 174, 0)">Conclusion: </span>
-We are very thankful for the support of my teammates and instructor for the completion of project in due time. We will looks forward to add some feature and functionality which we left in this project for future expensions.
+We are very thankful for the support of my teammates and instructor for the completion of project in due time. We will look forward to add some feature and advance functionality which we left in this project due to time constraints.
 
 
 # <span style="color:rgb(255, 170, 0)"> Thank Your For Reading </span>
@@ -209,7 +209,7 @@ We are very thankful for the support of my teammates and instructor for the comp
 [GitHub]()
 
 - ## Vishwanadh chundi
-[GitHub]()
+[GitHub](https://github.com/vishwanadhchundi)
 
 
 
