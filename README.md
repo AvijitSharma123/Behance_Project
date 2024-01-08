@@ -199,18 +199,17 @@ We are very thankful for the support of my teammates and instructor for the comp
 
 ## <span style="color:rgb(255, 200, 0)"> Team Members: </span>
 
-- ## Sakshi Singh
-[GitHub](https://github.com/Sakuu89)
+- ## Aviit Kumar Sharma
+[GitHub](https://github.com/AvijitSharma123)
 
-- ## Yuvraj Jangir
-[GitHub](https://github.com/yuvrajjangir)
+- ## Pankaj Khatri
+[GitHub](https://github.com/MrPK4699)
 
-- ## Sujal Sahu
-[GitHub](https://github.com/sujalsahu620)
+- ## Santosh Yadav
+[GitHub]()
 
-- ## Suraj Kumar Yadav
-[GitHub](https://github.com/SurajYadav007)
+- ## Vishwanadh chundi
+[GitHub]()
 
-- ## Madhu Sudan
-[GitHub](https://github.com/MadhuSudhanAlukuntla)
+
 
