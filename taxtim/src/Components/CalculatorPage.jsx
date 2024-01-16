@@ -1,5 +1,6 @@
 import React from 'react'
 import styles from "./CalculatorPage.module.css";
+import { useEffect } from 'react';
 import { Link } from 'react-router-dom';
 export const CalculatorPage = () => {
   return (

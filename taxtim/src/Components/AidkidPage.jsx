@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import styles from "./AidkidPage.module.css";
+import { useEffect } from 'react';
 const AidkidPage = () => {
   const [taxYear, setTaxYear] = useState(2024);
   const [taxableIncome, setTaxableIncome] = useState(0);
