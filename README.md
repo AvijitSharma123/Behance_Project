@@ -56,8 +56,11 @@ It was during the final week which is depicted as the construct week. We have do
  
 
 # <span style="color:red"> Tech Stack Used: </span>
-
-We have used React,ChakraUi, CSS, Firebase ,Razorpay  and more librabries of react to building this Project. We also used tools like GitHub for collaboration of our project, Slack & Zoom as means of a communication channel and use netlify and Vercel for deployment.
+. React
+. ChakraUi
+. CSS
+. Firebase 
+. Razorpay  
 
 
 # <span style="color:red"> Details of Tech stack used: </span>
