@@ -56,13 +56,11 @@ It was during the final week which is depicted as the construct week. We have do
  
 
 # <span style="color:red"> Tech Stack Used: </span>
-‹ul>
-‹li>React  </li›
-‹li>HTML‹/li>
-‹li>CSS‹/li>
-‹li>Chakra UI ‹/li>
-<li>Razorpay‹/li> 
-</ul> 
+React
+HTML
+CSS
+Chakra UI
+Razorpay
 
 
 # <span style="color:red"> Details of Tech stack used: </span>
