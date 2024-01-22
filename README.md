@@ -60,7 +60,7 @@ It was during the final week which is depicted as the construct week. We have do
 . HTML<br/>
 . CSS<br/>
 . Chakra UI<br/>
-. Firsbase<br/>
+. Firebase<br/>
 . Razorpay
 
 
